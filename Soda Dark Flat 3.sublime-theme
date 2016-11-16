@@ -20,7 +20,8 @@
     {
         "class": "tabset_control",
         "settings": ["enable_tab_scrolling"],
-        "content_margin": [3, 0, 3, 3]
+        "layer0.tint": [80, 80, 80],
+        "content_margin": [3, 0, 3, 0]
     },
     {
         "class": "tabset_control",
@@ -33,7 +34,7 @@
         "content_margin": [12, 3, 12, 3],
         "max_margin_trim": 0,
         "hit_test_level": 0.0,
-        "layer0.tint": [72, 72, 72],
+        "layer0.tint": [80, 80, 80],
         //"layer0.texture": "Theme - Soda/Soda Dark Flat/tab-inactive.png",
         "layer0.inner_margin": [5, 5],
         "layer0.opacity": 1.0
