@@ -1019,13 +1019,13 @@
     {
         "class": "panel_close_button",
         "layer0.texture": "Theme - Soda/Soda Dark Flat/panel-close.png",
-        "layer0.opacity": 0.85,
-        "content_margin": [8, 12]
+        "content_margin": [8, 12],
+        "layer0.opacity": 1.0
     },
     {
         "class": "panel_close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Soda/Soda Dark Flat/panel-close.png",
+        "layer0.texture": "Theme - Soda/Soda Dark Flat/panel-close-hover.png",
         "layer0.opacity": 1.0
     },
     {
